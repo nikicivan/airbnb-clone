@@ -1,0 +1,14 @@
+.signinModal__form {
+  display: flex;
+  flex-direction: column;
+  margin: 1rem;
+}
+
+.signinModal__signUpImage {
+  height: 4rem;
+  object-fit: contain;
+}
+
+.signinModal__form > .MuiInputBase-root {
+  padding-top: 1rem;
+}
